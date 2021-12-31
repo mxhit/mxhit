@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my portfolio website](https://github.com/mxhit/my-portfolio)
 
-- 🌱 I’m currently learning **React.js, Spring Boot**
+- 🌱 I’m currently learning **Angular, JavaScript**
 
 - 💬 Ask me about **Java**
 
