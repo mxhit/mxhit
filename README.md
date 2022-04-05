@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/mxhit" target="blank"><img src="https://img.shields.io/twitter/follow/mxhit?logo=twitter&style=for-the-badge" alt="mxhit" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio website](https://github.com/mxhit/my-portfolio)
+- 🔭 I’m currently working on [F1 REST API](https://github.com/mxhit/f1-rest-api)
 
-- 🌱 I’m currently learning **Angular, JavaScript**
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, JavaScript**
 
 - 📫 How to reach me **m.dodhia@outlook.com**
 
