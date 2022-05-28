@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **m.dodhia@outlook.com**
 
-- 📄 Know about my experiences [https://mxhit.github.io/](https://mxhit.github.io/)
+- 📝 Checkout my blogs at [https://mxhit.github.io/](https://mxhit.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
