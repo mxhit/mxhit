@@ -17,7 +17,6 @@
 <a href="https://twitter.com/mxhit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mxhit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mxhit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mxhit" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6817140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6817140" height="30" width="40" /></a>
-<a href="https://hashnode.com/@mxhit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mxhit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mxhit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mxhit" height="30" width="40" /></a>
 </p>
 
