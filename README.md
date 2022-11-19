@@ -1,5 +1,5 @@
 <h1>Hello there! 🙋‍♂️</h1>
 
-- 📫 You can reach me at `m.dodhia@outlook.com`
+- 📫 You can reach me at `mohit@dodhia.in`
 
-- 📝 Checkout my blogs [here](https://mxhit.github.io/blog/)
+- 📝 Checkout my blogs [here](https://dodhia.in/blog/)
